@@ -30,14 +30,6 @@
 ---
 
 
-### 💼 Projects
-
-- [IMDb Top Charts Project – Movie Data Analysis](https://github.com/datawithanupam/IMDB_Top_Charts_Project)  
-- [2024 Global Military Expenditure Dataset](https://github.com/datawithanupam/2024-Global-Military-Expenditure-Dataset)  
-- [Global Population Evolution: Strategic Implications (1970–2022)](https://github.com/datawithanupam/Global-Population-Evolution-Strategic-Implications-1970-2022)  
-- [Data Science Salary Trends (2020–2024)](https://github.com/datawithanupam/DataScience-Salary-2020-2024)
-
----
 
 
 ### 💼 Projects
