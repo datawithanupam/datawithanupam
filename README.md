@@ -57,6 +57,6 @@
 
 ---
 
-### 🕴️ Wrapping up with a bit of fun!
+### 🕴️ Feel free to give feedback
 
-![Business Analyst Cartoon](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjM4NDQwYjllNDQxZThmZDliMjcxYmE4ZDI1MjI3NzRhMzUwZDY3MSZjdD1n/26ufdipQqU2lhNA4g/giphy.gif)
+![Business Analyst Cartoon](https://media.giphy.com/media/YL90VSVnbwLmhRKa6I/giphy.gif)
