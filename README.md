@@ -53,7 +53,7 @@
 
 📫 **Email:** 13anup8@gmail.com  
 📄 **LinkedIn:** [linkedin.com/in/datawithanupam](https://www.linkedin.com/in/datawithanupam)  
-🌐 **Portfolio:** Coming Soon
+
 
 ---
 
