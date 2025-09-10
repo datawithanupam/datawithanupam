@@ -23,12 +23,12 @@ My goal is to bridge the gap between technical data analysis and strategic proje
 
 <ul>
   <li>Starting with the business objective to understand the core problem.</li>
-  <li>Diving deep into data using tools like <code style="background-color: #FFF3CD; color: #664d03; padding: 3px 6px; border-radius: 4px; font-weight: bold;">SQL</code>, <code style="background-color: #D4EDDA; color: #0f5132; padding: 3px 6px; border-radius: 4px; font-weight: bold;">Python</code>, <code style="background-color: #C7CEEA; color: #3b3e6e; padding: 3px 6px; border-radius: 4px; font-weight: bold;">Excel</code>, and <code style="background-color: #FFDDC1; color: #854b1f; padding: 3px 6px; border-radius: 4px; font-weight: bold;">Power BI</code> to uncover insights and define clear requirements.</li>
-  <li>Leveraging my skills in <code style="background-color: #CFE2FF; color: #0a428d; padding: 3px 6px; border-radius: 4px; font-weight: bold;">Agile methodologies</code> and <code style="background-color: #F8D7DA; color: #58151a; padding: 3px 6px; border-radius: 4px; font-weight: bold;">stakeholder management</code> to lead projects from initiation to completion.</li>
-  <li>Ensuring that analytical insights are always translated into <code style="background-color: #E2E3E5; color: #41464b; padding: 3px 6px; border-radius: 4px; font-weight: bold;">tangible, value-driven results</code>.</li>
+  <li>Diving deep into data using tools like <code style="background-color:#FFF9C4; color:#B78A00; padding: 4px 7px; border-radius: 5px; font-weight: bold;">SQL</code>, <code style="background-color:#E6FDE2; color:#256F3A; padding: 4px 7px; border-radius: 5px; font-weight: bold;">Python</code>, <code style="background-color:#E8F5E9; color:#1E6635; padding: 4px 7px; border-radius: 5px; font-weight: bold;">Excel</code>, and <code style="background-color:#FFEBEE; color:#C62828; padding: 4px 7px; border-radius: 5px; font-weight: bold;">Power BI</code> to uncover insights and define clear requirements.</li>
+  <li>Leveraging my skills in <code style="background-color:#F3E5F5; color:#6A1B9A; padding: 4px 7px; border-radius: 5px; font-weight: bold;">Agile methodologies</code> and <code style="background-color:#E0F7FA; color:#006064; padding: 4px 7px; border-radius: 5px; font-weight: bold;">stakeholder management</code> to lead projects from initiation to completion.</li>
+  <li>Ensuring that analytical insights are always translated into <code style="background-color:#E0E0E0; color:#212121; padding: 4px 7px; border-radius: 5px; font-weight: bold;">tangible, value-driven results</code>.</li>
 </ul>
 
-<h3 style="color: #0077B5;">Core Competencies</h3>
+<h3 style="color: #0077B5;">Skills</h3>
 
 <table width="100%">
   <thead>
@@ -51,18 +51,23 @@ My goal is to bridge the gap between technical data analysis and strategic proje
     </tr>
     <tr>
       <td style="padding:8px; text-align:center;">Stakeholder Communication</td>
-      <td style="padding:8px; text-align:center;">Value & Trend Analysis</td>
+      <td style="padding:8px; text-align:center;">Trend & Time-Series Analysis</td>
       <td style="padding:8px; text-align:center;">Excel, Google Sheets</td>
     </tr>
     <tr>
       <td style="padding:8px; text-align:center;">Risk & Resource Management</td>
-      <td style="padding:8px; text-align:center;">Correlation & Comparative Analysis</td>
+      <td style="padding:8px; text-align:center;">Correlation & Regression Analysis</td>
       <td style="padding:8px; text-align:center;">Git, GitHub</td>
     </tr>
-    <tr>
+     <tr>
       <td style="padding:8px; text-align:center;">Requirements Elicitation</td>
-      <td style="padding:8px; text-align:center;">Storytelling with Data</td>
+      <td style="padding:8px; text-align:center;">Comparative & Value-Based Analysis</td>
       <td style="padding:8px; text-align:center;">MySQL, Google Workspace</td>
+    </tr>
+    <tr>
+      <td style="padding:8px; text-align:center;"> </td>
+      <td style="padding:8px; text-align:center;">Financial Analysis (Learning)</td>
+       <td style="padding:8px; text-align:center;"> </td>
     </tr>
   </tbody>
 </table>
