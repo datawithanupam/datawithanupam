@@ -42,12 +42,12 @@ My goal is to bridge the gap between technical data analysis and strategic proje
     <tr>
       <td style="padding:8px; text-align:center;">Agile (Scrum & Kanban)</td>
       <td style="padding:8px; text-align:center;">SQL (Joins, CTEs, Window Functions)</td>
-      <td style="padding:8px; text-align:center;">Power BI, Tableau</td>
+      <td style="padding:8px; text-align:center;">Power BI </td>
     </tr>
     <tr>
       <td style="padding:8px; text-align:center;">Project Lifecycle Management</td>
       <td style="padding:8px; text-align:center;">Python (Pandas, NumPy, Seaborn)</td>
-      <td style="padding:8px; text-align:center;">Jira, Asana, Trello</td>
+      <td style="padding:8px; text-align:center;">Jira</td>
     </tr>
     <tr>
       <td style="padding:8px; text-align:center;">Stakeholder Communication</td>
@@ -57,7 +57,7 @@ My goal is to bridge the gap between technical data analysis and strategic proje
     <tr>
       <td style="padding:8px; text-align:center;">Risk & Resource Management</td>
       <td style="padding:8px; text-align:center;">Correlation & Regression Analysis</td>
-      <td style="padding:8px; text-align:center;">Git, GitHub</td>
+      <td style="padding:8px; text-align:center;">GitHub</td>
     </tr>
      <tr>
       <td style="padding:8px; text-align:center;">Requirements Elicitation</td>
